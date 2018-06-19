@@ -18,5 +18,7 @@ public class CameraAction : MonoBehaviour {
         gameObject.transform.position = player.gameObject.transform.position;
         gameObject.transform.position += new Vector3(0, 10, 0);
 
+
+
     }
 }
